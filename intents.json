@@ -1,0 +1,80 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening", "How are you?"],
+        "responses": ["Hello!", "Hi there!", "Hey! How can I assist you today?", "Good to see you!"]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["Bye", "Goodbye", "See you later", "Take care", "I'm leaving"],
+        "responses": ["Goodbye!", "Take care!", "See you soon!", "Have a great day!"]
+    },
+    {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "Thanks a lot", "I appreciate it"],
+        "responses": ["You're welcome!", "No problem!", "Anytime!", "Happy to help!"]
+    },
+    {
+        "tag": "help",
+        "patterns": ["Can you help me?", "I need assistance", "Could you assist me?", "I need help"],
+        "responses": ["Of course! What do you need help with?", "Sure, let me know how I can assist."]
+    },
+    {
+        "tag": "weather",
+        "patterns": ["What's the weather like?", "Tell me the weather", "Is it sunny today?", "Weather update"],
+        "responses": ["It's sunny and warm today!", "Looks like it might rain later.", "Check your local forecast for accurate details."]
+    },
+    {
+        "tag": "age",
+        "patterns": ["How old are you?", "What's your age?", "Tell me your age"],
+        "responses": ["I'm a program, so I don't age!", "Age is just a number, and I don't have one."]
+    },
+    {
+        "tag": "name",
+        "patterns": ["What's your name?", "Who are you?", "Tell me your name"],
+        "responses": ["I'm your friendly chatbot.", "You can call me ChatBot.", "I'm a virtual assistant created to help you."]
+    },
+    {
+        "tag": "joke",
+        "patterns": ["Tell me a joke", "Make me laugh", "Do you know any jokes?"],
+        "responses": [
+            "Why don't skeletons fight each other? They don't have the guts!",
+            "Why was the math book sad? It had too many problems.",
+            "Why did the scarecrow win an award? Because he was outstanding in his field!"
+        ]
+    },
+    {
+        "tag": "food",
+        "patterns": ["I'm hungry", "What's good to eat?", "Suggest me some food"],
+        "responses": ["How about some pizza?", "Maybe a burger and fries?", "Sushi sounds great!"]
+    },
+    {
+        "tag": "funny",
+        "patterns": ["Say something funny", "Make me smile", "Tell me something humorous"],
+        "responses": [
+            "Why did the computer get cold? It left its Windows open!",
+            "What do you call fake spaghetti? An impasta!",
+            "Why don't programmers like nature? It has too many bugs."
+        ]
+    },
+    {
+        "tag": "developer",
+        "patterns": ["Who made you?", "Who is your creator?", "Who developed you?"],
+        "responses": ["I was created by a brilliant developer.", "My developer prefers to remain anonymous."]
+    },
+    {
+        "tag": "bot",
+        "patterns": ["Are you a bot?", "What are you?", "Are you human?"],
+        "responses": ["I'm a chatbot, here to assist you.", "Yes, I'm a virtual assistant."]
+    },
+    {
+        "tag": "time",
+        "patterns": ["What time is it?", "Can you tell me the time?", "Current time"],
+        "responses": ["I'm not sure of the exact time. Check your clock!", "It's time to enjoy life!"]
+    },
+    {
+        "tag": "date",
+        "patterns": ["What's the date today?", "Tell me the date", "Current date"],
+        "responses": ["Check your calendar for today's date.", "It's another beautiful day!"]
+    }
+]
